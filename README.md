@@ -11,7 +11,7 @@ A light theme for Omarchy with pale mosaic tiles, graphite-blue motifs, and a ma
 For **Omarchy 4 with Omarchy Shell**:
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-blue-mosaic-theme
+omarchy theme install https://github.com/erikrjohansson/omarchy-blue-mosaic-theme
 ```
 
 ## The theme
