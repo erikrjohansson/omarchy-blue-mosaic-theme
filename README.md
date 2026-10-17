@@ -4,8 +4,6 @@ A light theme for Omarchy with pale mosaic tiles, graphite-blue motifs, and a ma
 
 ![Blue Mosaic — wordmark wallpaper](preview.png)
 
-![Blue Mosaic — logo wallpaper](preview-logo.png)
-
 ## Install
 
 For **Omarchy 4 with Omarchy Shell**:
