@@ -2,9 +2,9 @@
 
 A light theme for Omarchy with pale mosaic tiles, graphite-blue motifs, and a matching interface palette.
 
-![Blue Mosaic — logo wallpaper](preview.png)
+![Blue Mosaic — wordmark wallpaper](preview.png)
 
-![Blue Mosaic — wordmark wallpaper](preview-wordmark.png)
+![Blue Mosaic — logo wallpaper](preview-logo.png)
 
 ## Install
 
@@ -17,7 +17,7 @@ omarchy theme install https://github.com/erikrjohansson/omarchy-blue-mosaic-them
 ## The theme
 
 - A continuous mosaic floor with two Omarchy motifs: logo and wordmark.
-- A transparent top bar that blends into the tiled background.
+- A top bar that follows your Omarchy bar setting: transparent, it blends into the tiled background; solid, it matches the windows.
 - Solid, cool-white windows and menus with blue accents and slate borders.
 - A graphite-blue terminal palette and Adwaita icons.
 
@@ -25,7 +25,7 @@ omarchy theme install https://github.com/erikrjohansson/omarchy-blue-mosaic-them
 
 Two **3840 × 2160** wallpapers are included.
 
-[Logo](backgrounds/01-blue-mosaic-logo-4k.png) · [Wordmark](backgrounds/02-blue-mosaic-wordmark-4k.png)
+[Wordmark](backgrounds/01-blue-mosaic-wordmark-4k.png) · [Logo](backgrounds/02-blue-mosaic-logo-4k.png)
 
 ## License
 
